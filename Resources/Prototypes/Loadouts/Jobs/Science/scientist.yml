@@ -162,3 +162,9 @@
     proto: SeniorResearcher
   equipment:
     id: SeniorResearcherPDA
+
+# Eyes
+- type: loadout
+  id: LoadoutDiagnosticTajVeil
+  equipment:
+    id: ClothingDiagnosticTajVeil

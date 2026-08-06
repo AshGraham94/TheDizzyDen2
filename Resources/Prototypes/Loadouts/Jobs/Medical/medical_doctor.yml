@@ -137,3 +137,9 @@
   id: SterileMask
   equipment:
     mask: ClothingMaskSterile
+
+#Eyes
+- type: loadout
+  id: LoadoutMedicalTajVeil
+  equipment:
+    eyes: ClothingMedicalTajVeil

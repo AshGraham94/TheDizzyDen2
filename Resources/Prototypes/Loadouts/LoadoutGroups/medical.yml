@@ -32,6 +32,12 @@
   - EmergencyOxygenMedical
   - LoadoutSpeciesVoxNitrogen
 
+- type: loadoutGroup
+  id: MedicalGlasses
+  name: loadout-group-medical-medical-doctor-glasses
+  loadouts:
+    - LoadoutMedicalTajVeil
+
 # Chief Medical Officer
 
 - type: loadoutGroup
@@ -169,6 +175,12 @@
   - ChemistBackpack
   - ChemistSatchel
   - ChemistDuffel
+
+- type: loadoutGroup
+  id: ChemistEyes
+  name: loadout-group-chemist-eyes
+  loadouts: 
+  - LoadoutChemistryTajVeil
 
 #- type: loadoutGroup
 #  id: ChemistJobTrinkets

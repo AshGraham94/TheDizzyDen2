@@ -36,3 +36,9 @@
   equipment:
     outerClothing: ClothingOuterWinterChem
 
+# Eyes
+- type: loadout
+  id: LoadoutChemistryTajVeil
+  equipment:
+    eyes: ClothingChemistryTajVeil
+

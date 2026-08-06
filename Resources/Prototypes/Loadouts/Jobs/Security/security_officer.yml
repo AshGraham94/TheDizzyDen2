@@ -160,3 +160,9 @@
     proto: SeniorOfficer
   equipment:
     id: SeniorOfficerPDA
+
+# Eyes
+- type: loadout
+  id: LoadoutSecurityTajVeil
+  equipment:
+    id: ClothingSecurityTajVeil

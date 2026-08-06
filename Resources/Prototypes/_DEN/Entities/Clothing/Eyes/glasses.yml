@@ -115,7 +115,6 @@
   - type: Clothing
     sprite: _DEN/Clothing/Eyes/Glasses/engtaj.rsi
   - type: EyeProtection
-  - type: SupermatterHallucinationImmune
   - type: Tag
     tags:
     - WhitelistChameleon

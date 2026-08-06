@@ -38,6 +38,11 @@
   equipment:
     eyes: ClothingEyesGlasses
 
+- type: loadout
+  id: CivilianTajVeil
+  equipment:
+    eyes: ClothingCivilianTajVeil
+
 # Special options
 # Jamjar
 - type: loadout
@@ -56,3 +61,4 @@
     proto: JensenTimer
   equipment:
     eyes: ClothingEyesGlassesJensen
+
