@@ -269,6 +269,7 @@
   groups:
   - GroupTankHarness
   - SalvageSpecialistBackpack
+  - SalvageSpecialistGlasses
   - SalvageSpecialistOuterClothing
   - SalvageSpecialistShoes
   - Glasses
@@ -286,6 +287,7 @@
   - ChiefEngineerHead
   - ChiefEngineerJumpsuit
   - StationEngineerBackpack
+  - EngineeringGlasses
   - ChiefEngineerNeck
   - ChiefEngineerOuterClothing
   - ChiefEngineerShoes
@@ -301,6 +303,7 @@
   - GroupTankHarness
   - TechnicalAssistantJumpsuit
   - StationEngineerBackpack
+  - EngineeringGlasses
   - SurvivalExtended
   - Trinkets
   #- TechnicalAssistantJobTrinkets
@@ -314,6 +317,7 @@
   - StationEngineerHead
   - StationEngineerJumpsuit
   - StationEngineerBackpack
+  - EngineeringGlasses
   - StationEngineerOuterClothing
   - StationEngineerShoes
   - StationEngineerID
@@ -329,6 +333,7 @@
   - GroupTankHarness
   - AtmosphericTechnicianJumpsuit
   - AtmosphericTechnicianBackpack
+  - EngineeringGlasses
   - AtmosphericTechnicianOuterClothing
   - AtmosphericTechnicianShoes
   - SurvivalExtended
@@ -346,6 +351,7 @@
   - ResearchDirectorNeck
   - ResearchDirectorJumpsuit
   - ScientistBackpack
+  - ScienceGlasses
   - ResearchDirectorOuterClothing
   - ScientistGloves
   - ResearchDirectorShoes
@@ -364,6 +370,7 @@
   - ScientistNeck
   - ScientistJumpsuit
   - ScientistBackpack
+  - ScienceGlasses
   - ScientistOuterClothing
   - ScientistGloves
   - ScientistShoes
@@ -381,6 +388,7 @@
   - GroupTankHarness
   - ResearchAssistantJumpsuit
   - ScientistBackpack
+  - ScienceGlasses
   - Glasses
   - Survival
   - Trinkets
@@ -396,6 +404,7 @@
   - HeadofSecurityNeck
   - HeadofSecurityJumpsuit
   - SecurityBackpack
+  - SecurityGlasses
   - SecurityBelt
   - HeadofSecurityOuterClothing
   - SecurityShoes
@@ -411,6 +420,7 @@
   - WardenHead
   - WardenJumpsuit
   - SecurityBackpack
+  - SecurityGlasses
   - SecurityBelt
   - WardenOuterClothing
   - SecurityShoes
@@ -426,6 +436,7 @@
   - SecurityHead
   - SecurityJumpsuit
   - SecurityBackpack
+  - SecurityGlasses
   - SecurityOuterClothing
   - SecurityShoes
   - SecurityPDA
@@ -443,6 +454,7 @@
   - DetectiveNeck
   - DetectiveJumpsuit
   - SecurityBackpack
+  - SecurityGlasses
   - DetectiveOuterClothing
   - SecurityShoes
   - SurvivalSecurity
@@ -456,6 +468,7 @@
   groups:
   - SecurityCadetJumpsuit
   - SecurityBackpack
+  - SecurityGlasses
   - SurvivalSecurity
   - Trinkets
   #- SecurityCadetJobTrinkets

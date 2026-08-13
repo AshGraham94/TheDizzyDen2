@@ -34,7 +34,7 @@
 
 - type: loadoutGroup
   id: MedicalGlasses
-  name: loadout-group-medical-medical-doctor-glasses
+  name: loadout-group-medical-glasses
   loadouts:
     - LoadoutMedicalTajVeil
 
@@ -177,8 +177,8 @@
   - ChemistDuffel
 
 - type: loadoutGroup
-  id: ChemistEyes
-  name: loadout-group-chemist-eyes
+  id: ChemistGlasses
+  name: loadout-group-chemist-glasses
   loadouts: 
   - LoadoutChemistryTajVeil
 

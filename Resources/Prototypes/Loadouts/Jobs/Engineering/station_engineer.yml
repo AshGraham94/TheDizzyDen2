@@ -147,7 +147,7 @@
   equipment:
     id: SeniorEngineerPDA
 
-# Eyes
+# Glasses
 - type: loadout
   id: LoadoutEngineeringTajVeil
   equipment:

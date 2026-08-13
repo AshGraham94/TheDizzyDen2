@@ -138,7 +138,7 @@
   equipment:
     mask: ClothingMaskSterile
 
-#Eyes
+#Glasses
 - type: loadout
   id: LoadoutMedicalTajVeil
   equipment:

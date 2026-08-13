@@ -36,7 +36,7 @@
   equipment:
     outerClothing: ClothingOuterWinterChem
 
-# Eyes
+# Glasses
 - type: loadout
   id: LoadoutChemistryTajVeil
   equipment:

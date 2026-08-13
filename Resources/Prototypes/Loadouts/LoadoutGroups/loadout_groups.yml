@@ -55,7 +55,7 @@
   - Glasses
   - GlassesJamjar
   - GlassesJensen
-  - CivilianTajVeil
+  - LoadoutCivilianTajVeil
 
 - type: loadoutGroup
   id: GroupTankHarness
@@ -793,6 +793,12 @@
   - SalvageSpecialistDuffel
 
 - type: loadoutGroup
+  id: SalvageSpecialistGlasses
+  name: loadout-group-salvage-specialist-glasses
+  loadouts:
+  - LoadoutEngineeringTajVeil
+
+- type: loadoutGroup
   id: SalvageSpecialistOuterClothing
   name: loadout-group-salvage-specialist-outerclothing
   minLimit: 0
@@ -898,6 +904,12 @@
   - StationEngineerBackpack
   - StationEngineerSatchel
   - StationEngineerDuffel
+
+- type: loadoutGroup
+  id: EngineeringGlasses
+  name: loadout-group-engineer-glasses
+  loadouts:
+  - LoadoutEngineeringTajVeil
 
 - type: loadoutGroup
   id: StationEngineerOuterClothing
@@ -1055,6 +1067,12 @@
   - ScientistDuffel
 
 - type: loadoutGroup
+  id: ScienceGlasses
+  name: loadout-group-science-glasses
+  loadouts:
+  - LoadoutDiagnosticTajVeil
+
+- type: loadoutGroup
   id: ScientistOuterClothing
   name: loadout-group-scientist-outerclothing
   minLimit: 0
@@ -1209,6 +1227,12 @@
   - SecurityBackpack
   - SecuritySatchel
   - SecurityDuffel
+
+- type: loadoutGroup
+  id: SecurityGlasses
+  name: loadout-group-security-glasses
+  loadouts:
+  - LoadoutSecurityTajVeil
 
 - type: loadoutGroup
   id: SecurityBelt

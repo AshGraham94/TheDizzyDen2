@@ -39,7 +39,7 @@
     eyes: ClothingEyesGlasses
 
 - type: loadout
-  id: CivilianTajVeil
+  id: LoadoutCivilianTajVeil
   equipment:
     eyes: ClothingCivilianTajVeil
 

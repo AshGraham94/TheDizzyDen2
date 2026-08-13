@@ -8,6 +8,7 @@
   - MedicalMask
   - ChiefMedicalOfficerJumpsuit
   - MedicalBackpack
+  - MedicalGlasses
   - ChiefMedicalOfficerOuterClothing
   - ChiefMedicalOfficerNeck
   - ChiefMedicalOfficerShoes
@@ -28,6 +29,7 @@
   - MedicalBackpack
   - MedicalDoctorOuterClothing
   - MedicalShoes
+  - MedicalGlasses
   - MedicalDoctorPDA
   - Glasses
   - SurvivalMedical
@@ -42,6 +44,7 @@
   - GroupTankHarness
   - MedicalInternJumpsuit
   - MedicalBackpack
+  - MedicalGlasses
   - Glasses
   - SurvivalMedical
   - Trinkets
@@ -58,6 +61,7 @@
   - ChemistBackpack
   - ChemistOuterClothing
   - MedicalShoes
+  - ChemistGlasses
   - Glasses
   - SurvivalMedical
   - Trinkets
@@ -73,6 +77,7 @@
   - MedicalMask
   - ParamedicJumpsuit
   - MedicalBackpack
+  - MedicalGlasses
   - ParamedicOuterClothing
   - ParamedicShoes
   - Glasses
