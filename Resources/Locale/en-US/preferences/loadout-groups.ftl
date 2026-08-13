@@ -106,10 +106,13 @@ loadout-group-cargo-technician-shoes = Cargo Technician shoes
 loadout-group-cargo-technician-id = Cargo Technician ID
 
 loadout-group-salvage-specialist-backpack = Salvage Specialist backpack
+loadout-group-salvage-specialist-glasses = Salvage Specialist glasses
 loadout-group-salvage-specialist-outerclothing = Salvage Specialist outer clothing
 loadout-group-salvage-specialist-shoes = Salvage Specialist shoes
 
 # Engineering
+loadout-group-engineer-glasses = Engineer glasses
+
 loadout-group-chief-engineer-head = Chief Engineer head
 loadout-group-chief-engineer-jumpsuit = Chief Engineer jumpsuit
 loadout-group-chief-engineer-outerclothing = Chief Engineer outer clothing
@@ -131,6 +134,8 @@ loadout-group-atmospheric-technician-outerclothing = Atmospheric Technician oute
 loadout-group-atmospheric-technician-shoes = Atmospheric Technician shoes
 
 # Science
+loadout-group-science-glasses = Science glasses
+
 loadout-group-research-director-head = Research Director head
 loadout-group-research-director-neck = Research Director neck
 loadout-group-research-director-jumpsuit = Research Director jumpsuit
@@ -141,6 +146,7 @@ loadout-group-scientist-head = Scientist head
 loadout-group-scientist-neck = Scientist neck
 loadout-group-scientist-jumpsuit = Scientist jumpsuit
 loadout-group-scientist-backpack = Scientist backpack
+loadout-group-scientist-glasses = Scientist glasses
 loadout-group-scientist-outerclothing = Scientist outer clothing
 loadout-group-scientist-gloves = Scientist gloves
 loadout-group-scientist-shoes = Scientist shoes
@@ -149,6 +155,8 @@ loadout-group-scientist-id = Scientist ID
 loadout-group-research-assistant-jumpsuit = Research Assistant jumpsuit
 
 # Security
+loadout-grou-security-glasses = Security glasses
+
 loadout-group-head-of-security-head = Head of Security head
 loadout-group-head-of-security-jumpsuit = Head of Security jumpsuit
 loadout-group-head-of-security-neck = Head of Security neck
@@ -161,6 +169,7 @@ loadout-group-warden-outerclothing = Warden outer clothing
 loadout-group-security-head = Security head
 loadout-group-security-jumpsuit = Security jumpsuit
 loadout-group-security-backpack = Security backpack
+loadout-group-security-glasses = Security glasses
 loadout-group-security-belt = Security belt
 loadout-group-security-outerclothing = Security outer clothing
 loadout-group-security-shoes = Security shoes
@@ -176,6 +185,7 @@ loadout-group-security-star = Security Star
 
 # Medical
 loadout-group-medical-mask = Medical mask
+loadout-group-medical-glasses = Medical glasses
 
 loadout-group-chief-medical-officer-head = Chief Medical Officer head
 loadout-group-chief-medical-officer-jumpsuit = Chief Medical Officer jumpsuit
@@ -189,12 +199,14 @@ loadout-group-medical-doctor-outerclothing = Medical Doctor outer clothing
 loadout-group-medical-doctor-backpack = Medical Doctor backpack
 loadout-group-medical-doctor-shoes = Medical Doctor shoes
 loadout-group-medical-doctor-id = Medical Doctor ID
+loadout-grou-medical-doctor-glasses = Medical glasses
 
 loadout-group-medical-intern-jumpsuit = Medical intern jumpsuit
 
 loadout-group-chemist-jumpsuit = Chemist jumpsuit
 loadout-group-chemist-outerclothing = Chemist outer clothing
 loadout-group-chemist-backpack = Chemist backpack
+loadout-group-chemist-glasses = Chemist glasses
 
 loadout-group-paramedic-head = Paramedic head
 loadout-group-paramedic-jumpsuit = Paramedic jumpsuit
