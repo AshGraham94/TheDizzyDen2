@@ -93,7 +93,7 @@ public sealed partial class RadioSystem : EntitySystem
         }
         // DEN End
         
-        SendRadioMessage(messageSource, message, _prototype.Index(channel), radioSource, escapeMarkup: escapeMarkup); // DEN: Pass Languages and complex
+        SendRadioMessage(messageSource, languageEnt.Value, complex, _prototype.Index(channel), radioSource); // DEN: Pass Languages and complex
     }
 
     /// <summary>
@@ -178,6 +178,8 @@ public sealed partial class RadioSystem : EntitySystem
             verb,
             channel.LocalizedName,
             channel.Color);
+        
+        Log.Debug("Radio: " + wrappedMessage);
         
         if (name != Name(messageSource))
             _adminLogger.Add(LogType.Chat, LogImpact.Low, $"Radio message from {ToPrettyString(messageSource):user} as {name} on {channel.LocalizedName}: {unwrappedMessage}");
