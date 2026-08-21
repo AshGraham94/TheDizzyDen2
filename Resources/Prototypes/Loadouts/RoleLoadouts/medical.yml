@@ -13,6 +13,7 @@
   - ChiefMedicalOfficerNeck
   - ChiefMedicalOfficerShoes
   - Glasses
+  - AssistiveItems
   - SurvivalMedical
   - Trinkets
 #  - ChiefMedicalOfficerJobTrinkets
@@ -32,6 +33,7 @@
   - MedicalGlasses
   - MedicalDoctorPDA
   - Glasses
+  - AssistiveItems
   - SurvivalMedical
   - Trinkets
 #  - MedicalDoctorJobTrinkets
@@ -46,6 +48,7 @@
   - MedicalBackpack
   - MedicalGlasses
   - Glasses
+  - AssistiveItems
   - SurvivalMedical
   - Trinkets
 #  - MedicalInternJobTrinkets
@@ -63,6 +66,7 @@
   - MedicalShoes
   - ChemistGlasses
   - Glasses
+  - AssistiveItems
   - SurvivalMedical
   - Trinkets
 #  - ChemistJobTrinkets
@@ -81,6 +85,7 @@
   - ParamedicOuterClothing
   - ParamedicShoes
   - Glasses
+  - AssistiveItems
   - SurvivalMedical
   - Trinkets
 #  - ParamedicJobTrinkets
